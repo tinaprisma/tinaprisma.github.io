@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Quirks of the Northwind Traders Database"
-date:       2019-07-27 21:12:14 +0000
+date:       2019-07-27 17:12:15 -0400
 permalink:  quirks_of_the_northwind_traders_database
 ---
 
