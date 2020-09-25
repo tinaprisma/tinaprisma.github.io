@@ -1,3 +1,9 @@
+---
+layout: post
+title:      "Machine Learning Can't Solve Everything"
+date:       2020-01-01 17:12:15 -0400
+permalink:  Machine_Learning_Can't_Solve_Everything
+---
 
 I had great fantasies at the beginning of my new job about creating complex classification machine learning models to answer some of the most pressing questions in my field.
 
