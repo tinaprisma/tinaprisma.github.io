@@ -1,4 +1,10 @@
-# My experience with Pandas and Pyspark on the job
+---
+layout: post
+title:      "My experience with Pandas and Pyspark on the job"
+date:       2020-01-04 17:12:15 -0400
+permalink:  My_experience_with_Pandas_and_Pyspark_on_the_job
+---
+
 In my previous blog post, I discussed some of the challenges I faced with SQL when beginning my new job.  Now, the next challenge was to learn how to perform an analysis without using Pandas dataframes.
 
 Pandas is the tool we use to analyse fairly limited datasets. This is not necessarily from a limitation from Pandas itself, rather, the bottleneck resides in the data extraction step.  If the data scientist wants to use Pandas tools to analyze big data, the first step will be to transform a PySpark dataframe into a Pandas dataframe. Following this step takes an impractical amount of time and requires high memory resources. It is likely that the infrastructure team will start sending angry emails if this is a consistent practice.
