@@ -5,7 +5,6 @@ date:       2020-01-01 17:12:15 -0400
 permalink:  My_Experience_Working_With_SQL_In_My_First_Data_Job
 ---
 
-# My experience working with SQL in my first data job
 Well, it's been quite the 2020 ride, so far, hasn't it?
 ​
 Back in October of last year, I attended an engineering conference and I was lucky enough to be invited to interview in various companies. At the end of the conference, I had two job offers. The whirlwind of emotions that I felt were overwhelming, and I knew that Flatiron had led me to this moment.
