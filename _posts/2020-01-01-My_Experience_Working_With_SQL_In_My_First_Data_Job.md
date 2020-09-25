@@ -1,3 +1,10 @@
+---
+layout: post
+title:      "My experience working with SQL in my first data job"
+date:       2020-01-01 17:12:15 -0400
+permalink:  My_Experience_Working_With_SQL_In_My_First_Data_Job
+---
+
 # My experience working with SQL in my first data job
 Well, it's been quite the 2020 ride, so far, hasn't it?
 ​
