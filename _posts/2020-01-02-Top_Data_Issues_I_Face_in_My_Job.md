@@ -1,3 +1,11 @@
+---
+layout: post
+title:      "Top Data Issues I Face in My Job"
+date:       2020-01-01 17:12:15 -0400
+permalink:  Top_Data_Issues_I_Face_in_My_Job
+---
+
+
 You would think everything is rosy in a large corporation regarding systems and data management.
 
 Well, it is not that simple.
